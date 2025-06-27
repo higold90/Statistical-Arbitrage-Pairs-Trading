@@ -22,13 +22,14 @@ The statistical analysis and backtest yielded a clear outcome.
 **Conclusion:** Despite the strong statistical evidence of mean-reversion in the AUD/NZD pair, this specific strategy with a 60-day lookback window and +/- 2.0 Z-score thresholds was **not profitable**. The strategy produced no risk-adjusted returns and resulted in a slight net loss. This highlights that a statistical property alone does not guarantee a profitable strategy without further optimization of parameters and risk management rules.
 
 ## How to Run This Project
+
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone [https://github.com/higold90/Statistical-Arbitrage-Pairs-Trading.git](https://github.com/higold90/Statistical-Arbitrage-Pairs-Trading.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd YOUR_REPOSITORY_NAME
+    cd Statistical-Arbitrage-Pairs-Trading
     ```
 3.  **Install the required libraries:**
     ```bash
